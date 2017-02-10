@@ -1,2 +1,1 @@
-# Magento 2 Bootcamp Cheatcheet
-
+# tech020-amp.github.io
