@@ -11,15 +11,15 @@ chmod +x /usr/local/bin/docker-compose
 
 # Useful Docker commands
 
-  docker ps -a
-  docker images
-  docker exec -it <image_id> bash
-  docker stop
-  docker rm -f $(docker ps -a -q)
-  docker rmi -f $(docker images -q)
+* docker ps -a
+* docker images
+* docker exec -it <image_id> bash
+* docker stop
+* docker rm -f $(docker ps -a -q)
+* docker rmi -f $(docker images -q)
 
-  docker-compose up
-  docker-compose stop
-  docker-compose rm
-  docker-compose config
-  docker-compose ps
+* docker-compose up
+* docker-compose stop
+* docker-compose rm
+* docker-compose config
+* docker-compose ps
