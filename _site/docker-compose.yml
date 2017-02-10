@@ -5,7 +5,7 @@ services:
           restart: always
           image: jekyll/jekyll:pages
           hostname: jekyll
-          command: jekyll build -w --incremental
+          command: jekyll build --watch --incremental
           ports:
             - 4000:4000
           volumes:

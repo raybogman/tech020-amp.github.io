@@ -1,9 +1,9 @@
 ---
 layout: post
-title: My seventh post, Yeah!
+title: My sixt A post, Yeah!
 ---
 
-Seventh son of a Seventh son!
+Lorem ipsum dolor sit amet, consectetur adipiscing elit!
 
 <amp-img width="600" height="500" layout="responsive" src="http://lorempixel.com/600/500/transport"></amp-img>
 
