@@ -1,3 +1,0 @@
-Sitemap: https://tech020-amp.supportdesk.nu/sitemap.xml
-
-User-agent: *
