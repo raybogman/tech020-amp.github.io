@@ -23,3 +23,13 @@ chmod +x /usr/local/bin/docker-compose
 * docker-compose rm
 * docker-compose config
 * docker-compose ps
+
+
+# Useful Jekyll stuff
+
+* jekyll build --watch --incremental
+
+# Useful AMP stuff
+
+* https://validator.ampproject.org
+* https://chrome.google.com/webstore/detail/amp-validator/nmoffdblmcmgeicmolmhobpoocbbmknc
