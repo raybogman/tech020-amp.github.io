@@ -1,0 +1,33 @@
+# Site settings
+title: Tech020 AMP
+email: ray@supportdesk.nu
+description: >
+  High Speed Mobile, the Next Generation w/ AMP
+description-short: >
+  High Speed Mobile
+logo: "/assets/images/logo.jpg"
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://tech020-amp.supportdesk.nu" # the base hostname & protocol for your site
+paginate:	5
+
+name: 'Ray Bogman'
+bio: >
+  Ray Bogman is an IT professional and Magento evangelist from the Netherlands.
+
+author_image: "/assets/images/raybogman.png"
+twitter_username: raybogman
+github_username:  raybogman
+
+# Build settings
+markdown: kramdown
+
+kramdown:
+  parse_block_html: true
+  auto_ids: true
+  input: GFM
+  toc_levels: 1..6
+  smart_quotes: lsquo,rsquo,ldquo,rdquo
+  enable_coderay: false
+
+gems:
+  - jekyll-paginate
